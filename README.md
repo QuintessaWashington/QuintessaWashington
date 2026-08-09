@@ -31,4 +31,4 @@ Bachelor of Business Administration in Accounting
 
 
 ## Connect with me 
-[Linkedin]()
+[Linkedin](https://www.linkedin.com/in/quintessawashington/)
