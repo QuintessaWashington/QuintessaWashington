@@ -11,8 +11,20 @@ Senior-level Fraud, Risk, and Compliance professional with 10+ years of experien
 
 ## Featured Projects 
 [Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
+#### Goal:  
+
+#### Description - 
+
+#### Skills 
+
+#### Technology
+
+#### Results 
+
+
 
 ## Education 
+
 ### George Mason University		
 
 Master of Science in Accounting
