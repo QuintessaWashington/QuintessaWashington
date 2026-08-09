@@ -1,16 +1,34 @@
-## Hi there 👋
+# Fraud Strategy & Analytics Portfolio
 
-<!--
-**QuintessaWashington/QuintessaWashington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+Senior-level Fraud, Risk, and Compliance professional with 10+ years of experience analyzing transaction data, supporting fraud investigations, and delivering risk insights. Experience using SQL, Tableau, Excel, and forensic accounting techniques to identify anomalies, develop fraud indicators, and communicate findings to business stakeholders. Certified Fraud Examiner with proven ability to analyze large transactional datasets, identify anomalous and fraudulent behavior, and translate complex financial findings into audit-defensible narratives and evidence packages. Strong partner to fraud, legal, audit, and compliance teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 
+- Excel: PivotTables, Index/match, advance formulas, reconciliation models
+- SQL(PostgreSQL): CTEs, window functions, joins, aggregations, CASE logic
+- Tableau: Dashboards, scorecards, KPI reporting, executive reporting 
+
+## Featured Projects 
+[Transaction Risk & Fraud Monitoring]()
+
+## Education 
+### George Mason University		
+
+Master of Science in Accounting
+
+Graduate Certificate, Forensic Accounting
+
+### Georgia State University		
+
+Bachelor of Business Administration in Accounting                                                                                
+
+
+## Certifications 
+- Certified Fraud Examiner (CFE)                                                                                              	
+- DataCamp Associate Data Analyst in SQL 
+- DataCamp Data Analyst in Tableau 
+
+
+## Connect with me 
+[Linkedin]()
