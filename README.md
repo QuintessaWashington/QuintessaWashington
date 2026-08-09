@@ -10,7 +10,8 @@ Senior-level Fraud, Risk, and Compliance professional with 10+ years of experien
 - Tableau: Dashboards, scorecards, KPI reporting, executive reporting 
 
 ## Featured Projects 
-[Transaction Risk & Fraud Monitoring]()
+[Transaction Risk Scorecard & Fraud Monitoring](<img width="881" height="142" alt="image" src="https://github.com/user-attachments/assets/c6a18abb-67c9-44bd-92ea-89fc16fc7a76" />
+)
 
 ## Education 
 ### George Mason University		
