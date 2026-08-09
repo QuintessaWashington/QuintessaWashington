@@ -11,15 +11,21 @@ Senior-level Fraud, Risk, and Compliance professional with 10+ years of experien
 
 ## Featured Projects 
 [Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
-#### Goal:  
 
-#### Description - 
+#### Goal: 
+Design and develop an end-to-end transaction risk scoring and fraud monitoring solution.
 
-#### Skills 
+#### Description:  
+End-to-end fraud analytics project featuring synthetic BNPL transaction data, PostgreSQL/SQL fraud analysis, a transaction risk scoring engine, decisioning logic, and Tableau evaluation and monitoring dashboards.
 
-#### Technology
+#### Skills:  
+Fraud Strategy & Analytics •  Synthetic Data Generation • Exploratory Data Analysis (EDA) • Fraud Indicator Engine • Risk Scoring •  Data Visualization
 
-#### Results 
+#### Technology: 
+PostgreSQL• Tableau • Excel 
+
+#### Results: 
+Developed a transaction risk scoring framework based on fraud indicators and transaction behavior, with decisioning logic and interactive fraud monitoring dashboard to support risk management and ongoing transaction review. 
 
 
 
