@@ -9,7 +9,7 @@ Analytics professional with 10+ years of experience turning complex financial, o
 - Tableau: Dashboards, scorecards, KPI reporting, executive reporting 
 
 ## Featured Projects 
-1. Customer Journey & Fan Experience Analytics - IN PROGRESS
+### 1. Customer Journey & Fan Experience Analytics - IN PROGRESS
   #### Context: 
   Exploration of the Atlanta Dream fan journey surrounding the transition to State Farm Arena
   #### Completed:
@@ -19,7 +19,7 @@ Analytics professional with 10+ years of experience turning complex financial, o
   #### Focus: 
   Customer experience strategy • Journey mapping • Research framing • Digital experience concepts  
 
-2. [Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
+### 2. [Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
 
 #### Goal: 
 Design and develop an end-to-end transaction risk scoring and fraud monitoring solution.
