@@ -9,7 +9,7 @@ Analytics professional with 10+ years of experience turning complex financial, o
 - Tableau: Dashboards, scorecards, KPI reporting, executive reporting 
 
 ## Featured Projects 
-### 1. Customer Journey & Fan Experience Analytics - IN PROGRESS
+### 1. Customer Journey & Fan Experience Analytics - In Proress
   #### Context: 
   Exploration of the Atlanta Dream fan journey surrounding the transition to State Farm Arena
   #### Completed:
