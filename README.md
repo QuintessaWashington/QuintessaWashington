@@ -1,16 +1,25 @@
-# Fraud Strategy & Analytics Portfolio
-
+# Business Analytics | Customer Experience | Strategic Insights
 
 ## About Me
-Senior-level Fraud, Risk, and Compliance professional with 10+ years of experience analyzing transaction data, supporting fraud investigations, and delivering risk insights. Experience using SQL, Tableau, Excel, and forensic accounting techniques to identify anomalies, develop fraud indicators, and communicate findings to business stakeholders. Certified Fraud Examiner with proven ability to analyze large transactional datasets, identify anomalous and fraudulent behavior, and translate complex financial findings into audit-defensible narratives and evidence packages. Strong partner to fraud, legal, audit, and compliance teams.
+Analytics professional with 10+ years of experience turning complex financial, operational, and transactional data into actionable business findings. My work combines SQL, Tableau, Excel modeling, and stakeholder communication. I'm expanding into customer experience strategy, journey analytics, and innovation-focused problem-solving. 
 
 ## Technical Skills 
-- Excel: PivotTables, Index/match, advance formulas, reconciliation models
+- Excel: PivotTables, Index/match, advanced formulas, reconciliation models
 - SQL(PostgreSQL): CTEs, window functions, joins, aggregations, CASE logic
 - Tableau: Dashboards, scorecards, KPI reporting, executive reporting 
 
 ## Featured Projects 
-[Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
+1. Customer Journey & Fan Experience Analytics - IN PROGRESS
+  #### Context: 
+  Exploration of the Atlanta Dream fan journey surrounding the transition to State Farm Arena
+  #### Completed:
+  Customer journey maps, identified potential friction points and research gaps to guide future research.  
+  #### Next steps: 
+  Sentiment analysis, journey stage analytics, and prototype mobile fan experience concepts,  
+  #### Focus: 
+  Customer experience strategy • Journey mapping • Research framing • Digital experience concepts  
+
+2. [Transaction Risk Scorecard & Fraud Monitoring](https://github.com/QuintessaWashington/Transaction-Risk-Scorecard-Fraud-Monitoring)
 
 #### Goal: 
 Design and develop an end-to-end transaction risk scoring and fraud monitoring solution.
